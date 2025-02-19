@@ -53,5 +53,6 @@ public class PagosApp {
         } else {
             System.out.println("Número de tarjeta inválido.");
         }
+        System.out.println("MENSAJE DE ACTUALIZACION");
     }
 }
