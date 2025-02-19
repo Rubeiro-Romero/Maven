@@ -1,0 +1,4 @@
+co\edu\unicauca\pagos\p\plug\in\PagoTarjetaCredito.class
+co\edu\unicauca\pagos\p\plug\in\PagoCriptoMoneda.class
+co\edu\unicauca\pagos\p\plug\in\PagoTransferenciaBancaria.class
+co\edu\unicauca\pagos\p\plug\in\PasarelaPago.class
